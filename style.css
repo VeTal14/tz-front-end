@@ -1,0 +1,30 @@
+.content {
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+
+#main li{
+    font-size: 34px;
+    padding: 20px;
+}
+#main li:hover{
+    cursor: pointer;
+    color: blue;
+}
+.search-block{
+    border: 3px solid green;
+    margin-top: 45px;
+    float: left;
+}
+#info{
+    font-size: 26px;
+    margin: 50px 0 0 50px;
+    height: 500px;
+    width: 500px;
+    float: left;
+}
+#info div:hover{
+    cursor: pointer;
+    color: blue;
+}
